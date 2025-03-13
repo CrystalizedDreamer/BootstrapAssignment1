@@ -1,0 +1,30 @@
+main{
+    background-image: url(../Images/beautiful-shining-stars-night-sky_181624-622.avif);
+}
+#formSection1{
+    color: white;
+    background-color: rgba(137, 43, 226, 0.473);
+    border: white solid 2px;
+    border-radius: 12.5%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+#star1{
+    max-width: 200px;
+    max-height:200px;
+}
+#star2{
+    max-width: 200px;
+    max-height:200px;
+}
+#star3{
+    max-width: 200px;
+    max-height:200px;
+}
+@media screen and (width <=800px) {
+    #button2{
+        display: none;
+    }
+    
+}
